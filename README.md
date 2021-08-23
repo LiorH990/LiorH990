@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @LiorH990
+- 👀 I’m interested in Data
+- 🌱 I’m currently learning DBT
+- 📫 PM to reach me ...
